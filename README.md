@@ -1,7 +1,7 @@
 # Explore and Analyse Seattle AirBnB Data
 This repository contains files including the listings, property availablity, and reviews data for AirBnB properties listed in the Seattle, Washingtion area over the year 2016, as well as Python scripts in the form of a Jupyter Notebook which explores and analyse the data for a number of interesting questions that could be used to help potential hosts and renters who may use the AirBnB platform.
 
-A companion blog post for this analysis can be found at ... #todo
+A companion blog post for this analysis can be found at https://chinnaporn-chinotaikul.medium.com/the-best-airbnb-locations-in-seattle-2be45c4d3809
 
 Created as part of my project for the Udacity Data Science Nanodegree course
 
