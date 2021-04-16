@@ -22,6 +22,8 @@ The project aims to provide useful information and methods which could be used f
 # File Descriptions
 Files in this repository include:
 - seattle-airbnb-exploration-analysis.ipynb - the main Jupyter Notebook includes importing of the data, exploration, analysis and visualisation
+
+The below files had been uploaded in rar files due to size. Please unpack before use:
 - calendar.csv - properties availability and pricing data throughout the period
 - listings.csv - data of each listing including properites of the host as well as of the properties
 - reviews.csv - all text reviews made on the properties
